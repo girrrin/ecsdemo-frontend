@@ -42,3 +42,7 @@ variables:
   REGION: us-west-2
   CRYSTAL_URL: "http://ecsdemo-crystal.ecsworkshop.local:3000/crystal"
   NODEJS_URL: "http://ecsdemo-nodejs.ecsworkshop.local:3000"
+variables:
+  AWS_DEFAULT_REGION: us-west-2
+  CRYSTAL_URL: "http://ecsdemo-crystal.ecsworkshop.local:3000/crystal"
+  NODEJS_URL: "http://ecsdemo-nodejs.ecsworkshop.local:3000"
